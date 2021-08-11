@@ -11,15 +11,15 @@ nav {
 ul {
   float: none;
   position: absolute;
-  top: 2%;
-  left: 50%;
+  top: 3%;
+  left: 53%;
   transform: translate(-50%, -50%);
 }
 nav img {
   float: none;
   position: absolute;
   top: 5%;
-  left: 30%;
+  left: 33%;
   transform: translate(-50%, -50%);
 }
 
